@@ -5,5 +5,7 @@ User story:
 - User types `:laughing:` somewhere on a site
 - Extension automatically replaces it with 😆.
 
-## Contributions:
-Please let me know if you are interested in this idea (email: sa3762@columbia.edu). I am pretty busy right now but would definitely love to see this idea working.
+## Requesting Contributions:
+- LMK (email: sa3762@columbia.edu) if you are interested in this idea.
+- I am pretty busy right now but can provide some guidance on development (have some experience with chrome extensions - https://github.com/PornBlock/PornBlock)
+- If you make serious progress, you can own the idea and the repository. I can be the second collaborator and will be just happy to see the idea in action.
